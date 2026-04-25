@@ -1,0 +1,2 @@
+# Library-Management-System-with-Payment-Integration
+project developed in Python. It allows users to add books, view available books, issue books,  return them efficiently. Each book is stored with its rental price. When a user issues a book, the system includes a basic payment feature where the user selects a method such as UPI, card, or cash, and the payment is processed before issuing the book. 
